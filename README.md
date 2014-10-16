@@ -1,7 +1,7 @@
 3D-models
 =========
 
-This repository will contain the finished 3D-models that are produced as part of the Micropasts project. Models are co-produced from the MicroPasts crowd-sourcing application and then rendered using the technique know as 'Structure from Motion'. Models are licensed under a Creative Commons By-Attribution license unless stated otherwise.
+This repository will contain the finished 3D-models that are produced as part of the MicroPasts project. Models are co-produced from the MicroPasts crowd-sourcing application and then rendered using the technique know as 'Structure from Motion'. Models are licensed under a Creative Commons By-Attribution license unless stated otherwise.
 
 
 Funded by
@@ -14,6 +14,8 @@ Funded Partners
 ![UCL](http://crowdsourced.micropasts.org/static/img/black.jpg)
 ![Portable Antiquities Scheme](http://www.dayofarchaeology.com/wp-content/uploads/2011/05/pasrgbsize4.jpg)
 
-Current models
+Current models:
 
-Bronze Age Palstave from the British Museum
+Bronze Age palstaves from the British Museum
+Acheulean handaxes from Tanzania (temporarily housed at UCL)
+Egyptian shabti from the Petrie Museum
