@@ -17,5 +17,7 @@ Funded Partners
 Current models:
 
 Bronze Age palstaves from the British Museum
+
 Acheulean handaxes from Tanzania (temporarily housed at UCL)
+
 Egyptian shabti from the Petrie Museum
